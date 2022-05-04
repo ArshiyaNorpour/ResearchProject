@@ -1,11 +1,11 @@
-# ResearchProject
+ # ResearchProject
  PAIN, SCHMERZ, درد, الوجع
-
-Research Project.
-This project works with GA to find the line-equation of the line. 🇺🇸
-See this cod3 just with listening to Rammstein :)
-
-DEUTSCH:
-FORSCHUNG PROJEKT
-DIESES PROJEKT ARBEITET MIT GA FUER DIE LINIE-GLEISCHUNG ZUFINDEN. 🇩🇪
-SIEH DIESEN COD3 NUR WENN DU RAMMSTEIN HOERST :)
+ <br />
+Research Project.  <br />
+This project works with GA to find the line-equation of the line. 🇺🇸  <br />
+See this cod3 just with listening to Rammstein :)  <br />
+ <br />
+DEUTSCH: <br />
+FORSCHUNG PROJEKT  <br />
+DIESES PROJEKT ARBEITET MIT GA FUER DIE LINIE-GLEISCHUNG ZUFINDEN. 🇩🇪  <br />
+SIEH DIESEN COD3 NUR WENN DU RAMMSTEIN HOERST :) 
