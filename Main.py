@@ -1,3 +1,4 @@
 import InitialPopulation
-
-print(InitialPopulation.InitialPopulation())
+while(True):
+    print(InitialPopulation.InitialPopulation())
+    input()
